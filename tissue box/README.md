@@ -1,5 +1,8 @@
 # Tissue Box Cover
 
+1. The normal sized [Tissue Box Cover](Tissue%20Box%20Cover.stl) fits regular sized tissue boxes (typically containing 120 tissues at 8.2" x 8.4" or 20.8cm x 21.3cm).
+1. The smaller sized [Small Tissue Box Cover](Small%20Tissue%20Box%20Cover.stl) fits small tissue boxes (typically containing 48 tissues at 8.2" x 8.4" or 20.8cm x 21.3cm).
+
 ![Tissue Box Cover](Tissue%20Box%20Cover.png)
 
 In order to encourage my kids to use tissues more often I designed tissue box covers that they could put stickers on. These covers will fit your regular of the shelf tissue boxes.
