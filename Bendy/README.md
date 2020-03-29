@@ -6,6 +6,11 @@ I made my material property files publicly available that I use for printing Ben
 
 Cheetah sticks to BuildTak like crazy. No brim necessary for the little contact surface it has.
 
+- Bendy-A: Use the files for Bendy-A when using a classic USB-A to Lightning cable.
+- Bendy-C: Use the Bendy-C files for the latest USB-C to Lightning cable.
+
+The Lightning port on the USB-A and USB-C cable have different dimensions.
+
 ## Links
 
 - [NinjaTek Cheetah](https://github.com/aphex3k/3dp/blob/master/PrusaSlicer/filament/NinjaTek%20Cheetah%20FLEX.ini) material settings
