@@ -1,6 +1,6 @@
 # Sliding Door - Wheel
 
-The old house that our family lives in cam with a folding sliding door and the kids wheren't really gentle to it. One of the sliding wheels sheered off and rendered the right side of the folding panels unusable.
+The old house that our family lives in came with a folding sliding door and the kids wheren't really gentle to it. One of the sliding wheels in the rail sheered off and rendered the right side of the folding panels unusable.
 
 ![Old and New](IMG_6850.jpg)
 
